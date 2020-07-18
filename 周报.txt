@@ -1,0 +1,17 @@
+7月13日
+md +git
+git clone了手册慢慢看
+
+7月14日
+配置
+7月15日
+as配置git
+看activity
+7月16日
+写acitivity
+写intent
+7月17日
+写activity成功
+RecyclerView成功
+7月18日
+sqlite数据库
